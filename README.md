@@ -2,6 +2,8 @@
 
 The WriteDocs Template is the foundation for creating and deploying documentation portals using the WriteDocs solution. It comes with everything you need to get started quickly.
 
+test
+
 ## Getting Started
 
 Welcome to the WriteDocs documentation guide. Follow the instructions below to learn how to create, deploy, and take your documentation to the highest level with WriteDocs.
